@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.heading{
+    text-align: center;
+    font-size: 70px;
+    color: brown;
+  margin-bottom: 30px;
+}
+.iamge{
+    height: 500px;
+    width: 50%;
+    border-radius: 15px;
+    margin:5px;
+}
+.iamge:hover{
+  transform: scale(1.05);
+}
+.second-main{
+    display: flex;
+    
+}
+.thaird-main{
+    display: flex;
+}
+.end{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
